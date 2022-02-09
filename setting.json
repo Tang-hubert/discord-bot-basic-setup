@@ -1,0 +1,23 @@
+{
+    "Prefix": [
+        "["
+    ],
+    "Owner_id": [
+        681230617610158100
+    ],
+    "Valid_User": [
+        681230617610158100
+    ],
+    "Welcome_channel": "877128446206152745",
+    "Leave_channel": "877128499889061908",
+    "pic": [
+        "C:\\Users\\Hubert Tang\\Documents\\GitHub\\Discord-bot-push-notification\\pic\\882234.jpg",
+        "C:\\Users\\Hubert Tang\\Documents\\GitHub\\Discord-bot-push-notification\\pic\\signal.png"
+    ],
+    "time": "213845",
+    "task": "HI",
+    "total_number": "1",
+    "member_number": "1",
+    "key": "",
+    "alart_channel": "801868544295174168"
+}

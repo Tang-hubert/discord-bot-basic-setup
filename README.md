@@ -2,7 +2,7 @@ discord-bot-basic-setup
 
 Author: Proladon. 
 
-Some new updates: Hubert Tang.
+Some new updates: Hubert Tang. On replit
 
 ## ⚡ Introduction 簡介
 
